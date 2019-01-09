@@ -1,0 +1,19 @@
+.title{
+    position: relative;
+    
+    text-align: center;
+}
+.row{
+    position: relative;
+    text-align: center;
+}
+
+#para{
+    font-weight: 800;
+    font-size: 26px;
+}
+
+#shapes {
+      position: relative;
+      display: none;
+}
